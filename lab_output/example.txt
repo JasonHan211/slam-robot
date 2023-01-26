@@ -1,0 +1,5 @@
+{"pose": [[-0.8], [1.6], [1.57]], "imgfname": "lab_output/pred_0.png"}
+{"pose": [[-0.4], [-0.4], [-1.57]], "imgfname": "lab_output/pred_1.png"}
+{"pose": [[-0.8], [-0.8], [0]], "imgfname": "lab_output/pred_2.png"}
+{"pose": [[0.4], [0.8], [0.785]], "imgfname": "lab_output/pred_3.png"}
+{"pose": [[0.4], [-0.4], [0]], "imgfname": "lab_output/pred_4.png"}

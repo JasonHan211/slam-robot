@@ -1,0 +1,5 @@
+training/images/
+training/labels/
+network/scripts/dataset
+network/scripts/model/model.pth
+network/scripts/model/Shit_history.pth
